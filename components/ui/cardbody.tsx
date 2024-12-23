@@ -6,68 +6,68 @@ export default function CardBody() {
     {/* Card 1 */}
     <Card className="col-span-12 sm:col-span-4 h-[300px]">
       <CardHeader className="absolute z-10 top-1 flex-col !items-start">
-        <p className="text-tiny text-white/60 uppercase font-bold">Transport Logistique</p>
+        <p className="text-tiny text-white/60 uppercase font-bold">JESUS AKA</p>
         <h4 className="text-white font-medium text-large">
-          Optimisez vos livraisons locales et internationales
+          Président
         </h4>
       </CardHeader>
       <Image
         isZoomed
         removeWrapper
-        alt="Transport Logistique"
+        alt="Jesus Aka"
         className="z-0 w-full h-full object-cover"
-        src="https://i.pinimg.com/736x/60/22/b8/6022b875afd5bef3a825dd74e42877fd.jpg"
+        src="https://bluemakers.net/wp-content/uploads/2023/03/My-project-1-1.png"
       />
     </Card>
   
     {/* Card 2 */}
     <Card className="col-span-12 sm:col-span-4 h-[300px]">
       <CardHeader className="absolute z-10 top-1 flex-col !items-start">
-        <p className="text-tiny text-white/60 uppercase font-bold">Bitume</p>
+        <p className="text-tiny text-white/60 uppercase font-bold">N&apos;DRI</p>
         <h4 className="text-white font-medium text-large">
-          Matériaux de qualité pour vos projets routiers
+          Vice-Président
         </h4>
       </CardHeader>
       <Image
         isZoomed
         removeWrapper
-        alt="Bitume"
+        alt="N'DRI"
         className="z-0 w-full h-full object-cover"
-        src="https://i.pinimg.com/736x/56/ee/f4/56eef49a1f2d2ced87a4282a03e64da6.jpg"
+        src="https://bluemakers.net/wp-content/uploads/2023/03/My-project-1.png"
       />
     </Card>
   
     {/* Card 3 */}
     <Card className="col-span-12 sm:col-span-4 h-[300px]">
       <CardHeader className="absolute z-10 top-1 flex-col !items-start">
-        <p className="text-tiny text-white/60 uppercase font-bold">Sable & Ciment</p>
+        <p className="text-tiny text-white/60 uppercase font-bold">JEAN M YEBOUE</p>
         <h4 className="text-white font-medium text-large">
-          Fourniture pour une construction solide et durable
+          Secrétaire Général
         </h4>
       </CardHeader>
       <Image
         isZoomed
         removeWrapper
-        alt="Sable et Ciment"
+        alt="Jean M Yeboue"
         className="z-0 w-full h-full object-cover"
-        src="https://i.pinimg.com/736x/3a/58/f3/3a58f3aa0bdd76271b2015132a2d2881.jpg"
+        src="https://bluemakers.net/wp-content/uploads/2023/03/My-project-1-2.png"
       />
     </Card>
   
     {/* Card 4 */}
     <Card isFooterBlurred className="w-full h-[300px] col-span-12 sm:col-span-5">
       <CardHeader className="absolute z-10 top-1 flex-col items-start">
-        <p className="text-tiny text-white/60 uppercase font-bold">Fer à Béton</p>
+        <p className="text-tiny text-white/60 uppercase font-bold">ANAH TOURE</p>
         <h4 className="text-black font-medium text-2xl">
-          Résistance maximale pour vos structures
+          Trésorier
         </h4>
       </CardHeader>
       <Image
         isZoomed
         removeWrapper
-        alt="Fer à Béton"
+        alt="Anah Toure"
         className="z-0 w-full h-full object-cover"
-        src="https://i.pinimg.com/736x/33/f4/e4/33f4e4181779a28881b45b2a534c750a.jpg"
+        src="https://bluemakers.net/wp-content/uploads/2023/03/My-project-1-3.png"
       />
       <CardFooter className="absolute bg-white/30 bottom-0 border-t-1 border-zinc-100/50 z-10 justify-between">
         <div>
@@ -85,24 +85,24 @@ export default function CardBody() {
     {/* Card 5 */}
     <Card isFooterBlurred className="w-full h-[300px] col-span-12 sm:col-span-7">
       <CardHeader className="absolute z-10 top-1 flex-col items-start">
-        <p className="text-tiny text-white/60 uppercase font-bold">Caniveau Dallot</p>
+        <p className="text-tiny text-white/60 uppercase font-bold">Miss Aurélia</p>
         <h4 className="text-black font-medium text-xl">
-          Solutions durables pour la gestion des eaux pluviales
+          Direction des Ressources Humaines
         </h4>
       </CardHeader>
       <Image
         isZoomed
         removeWrapper
-        alt="Caniveau Dallot"
+        alt="Miss Aurélia"
         className="z-0 w-full h-full object-cover"
-        src="https://i.pinimg.com/736x/c4/35/11/c43511867a57c56f005c70b936bdfd3d.jpg"
+        src="/assets/images/1733734560326.jpeg"
       />
       <CardFooter className="absolute bg-black/40 bottom-0 z-10 border-t-1 border-default-600 dark:border-default-100">
         <div className="flex flex-grow gap-2 items-center">
           <Image
-            alt="Caniveau Dallot"
+            alt="Logo BLUE"
             className="rounded-full w-10 h-11 bg-black"
-            src="https://i.pinimg.com/736x/f4/76/03/f47603224be9ff55f87653fa64a013b9.jpg"
+            src="/assets/images/blue.png"
           />
           <div className="flex flex-col">
             <p className="text-tiny text-white/60">Fourniture de caniveaux robustes</p>
