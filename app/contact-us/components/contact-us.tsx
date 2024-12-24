@@ -9,7 +9,7 @@ export default function ContactUsComponent() {
                 <div className="flex-1">
                     <h2 className="text-2xl font-bold mb-4">Entrer en contact</h2>
                     <p className="mb-8">
-                        Retrouvez-nous à Yopougon Maroc, Carrefour OBAMA pour discuter de vos besoins en transport et travaux publics.
+                        Retrouvez-nous à Abidjan, Côte d&apos;Ivoire pour discuter avec nous, nous sommes à votre écoute.
                     </p>
 
                     <div className="space-y-6">
@@ -20,7 +20,7 @@ export default function ContactUsComponent() {
                             </div>
                             <div>
                                 <h3 className="font-semibold">Address</h3>
-                                <p>Yopougon Maroc, Carrefour OBAMA</p>
+                                <p>ABIDJAN, CÔTE D&apos;IVOIRE</p>
                             </div>
                         </div>
 
@@ -31,7 +31,7 @@ export default function ContactUsComponent() {
                             </div>
                             <div>
                                 <h3 className="font-semibold">Phone Number</h3>
-                                <p>(+225) 27 23 43 70 06 / (+225) 05 06 17 18 19</p>
+                                <p>(+225) 07 78 06 09 61 / (+225) 07 09 61 13 41</p>
                             </div>
                         </div>
 
@@ -42,7 +42,7 @@ export default function ContactUsComponent() {
                             </div>
                             <div>
                                 <h3 className="font-semibold">E-Mail</h3>
-                                <p>info@globaltransport-ci.com</p>
+                                <p>blue@bluemakers.net</p>
                             </div>
                         </div>
                     </div>

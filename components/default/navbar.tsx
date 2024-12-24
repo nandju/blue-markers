@@ -27,15 +27,15 @@ const items: Items[] = [
   },
   {
     label: "Services",
-    href: "/services",
+    href: "/",
   },
   {
     label: "Equipes",
-    href: "/equipes",
+    href: "/",
   },
   {
     label: "Actualités",
-    href: "/actualites",
+    href: "/",
   },
   {
     label: "Contactez-nous",
